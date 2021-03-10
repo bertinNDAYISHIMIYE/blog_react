@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "author": "berry",
+      "content": "Typically work tasks involve a lot more than a title. There’s a lot of context for complex problems that you need to capture inside of the ticket so those details don’t get lost and you understand the problem when coming back to it.Add the ability to include a description on each task. Bonus: include the ability to add acceptance criteria to satisfy the requirements of a ticket",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "author": "berry",
+      "content": "Typically work tasks involve a lot more than a title. There’s a lot of context for complex problems that you need to capture inside of the ticket so those details don’t get lost and you understand the problem when coming back to it.Add the ability to include a description on each task. Bonus: include the ability to add acceptance criteria to satisfy the requirements of a ticket",
+      "id": 2
+    },
+    {
+      "title": "tech enth",
+      "author": "berry",
+      "content": "The 'margin-right: -50%' is needed to compensate the 'left: 50%'. The 'left' rule reduces the available width for the element by 50%. The renderer will thus try to make lines that are no longer than half the width of the container. By saying that the right margin of the element is further to the right by that same amount, the maximum line length is again the same as the container's width.\n\nTry resizing the window: You'll see that each sentence is on one line when the window is wide enough. Only when the window is too narrow for the whole sentence will the sentence be broken over several lines. When you remove the 'margin-right: -50%' and resize the window again, you'll see that the sentences will be broken already when the window is still twice as wide as the text lines.\n\n(Using 'translate' for centering in the viewport was first proposed by “Charlie” in an answer on Stack Overflow.)",
+      "id": 8
+    },
+    {
+      "title": "lorem ispu",
+      "author": "berry",
+      "content": "<div class=\"card\">\n\n  <div class=\"title\">Standard</div>\n\n  <div class=\"icon\">\n    <svg enable-background=\"new 0 0 512 512\" height=\"512px\" id=\"Layer_1\" version=\"1.1\" viewBox=\"0 0 512 512\" width=\"512px\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M468.493,101.637L371.955,5.098H159.57v77.231H43.724v424.769h308.923v-77.231h115.846V101.637z   M371.955,32.401l69.236,69.235h-69.236V32.401z M63.031,487.79V101.637h173.769v96.538h96.538V487.79H63.031z M256.108,109.632  l69.236,69.235h-69.236V109.632z M352.647,410.56V178.867l-96.538-96.538h-77.231V24.406h173.769v96.538h96.538V410.56H352.647z\" fill=\"#37404D\"/></svg>\n  </div><!--/icon-->\n\n  <div class=\"features\">\n    <ul>\n      <li><span>5</span> Edits</li>\n      <li><span>1GB</span> Storage</li>\n      <li><span>3</span> Pages</li>\n      <li><span>1</span> Hour free support</li>\n    </ul>\n  </div><!--/features-->\n\n  <a href=\"#\" class=\"btn\">Check it out</a>\n\n</div><!--/card-->",
+      "id": 9
+    }
+  ]
+}
